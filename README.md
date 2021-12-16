@@ -3,8 +3,8 @@
 This plugin enables serial communication over Bluetooth. It was written for communicating between Android or iOS and an Arduino.
 This version in particular allows to do so in Android 10 and beyond, while also being capable to do so in previous versions.
 
-I created this version because the original does not seem to be maintained anymore, but all credits go to the original author.
-[BluetoothSerial by don](https://github.com/don/BluetoothSerial)
+I created this version because the original does not seem to be maintained anymore, but all credits go to the original author:
+[BluetoothSerial by don](https://github.com/don/BluetoothSerial).
 
 Android and Windows Phone use Classic Bluetooth.  iOS uses Bluetooth Low Energy.
 
