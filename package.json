@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-bluetooth-serial-a10",
+  "version": "0.4.7",
+  "description": "Bluetooth Serial Communication Plugin, but modified to work in Android 10 and above",
+  "main": "./www/bluetoothSerial.js",
+  "cordova": {
+    "id": "cordova-plugin-bluetooth-serial-a10+",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/don/BluetoothSerial.git"
+  },
+  "keywords": [
+    "cordova",
+    "bluetooth",
+    "serial",
+    "ble",
+    "arduino",
+    "ecosystem:cordova"
+  ],
+  "author": "Don Coleman <don.coleman@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/don/BluetoothSerial/issues"
+  },
+  "homepage": "https://github.com/don/BluetoothSerial#readme",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
