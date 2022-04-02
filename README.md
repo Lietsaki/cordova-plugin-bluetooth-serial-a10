@@ -1,7 +1,7 @@
-# Bluetooth Serial Plugin for Cordova (+Android 10)
+# Bluetooth Serial Plugin for Cordova (Android 10)
 
-This plugin enables serial communication over Bluetooth. It was written for communicating between Android or iOS and an Arduino.
-This version in particular allows to do so in Android 10 and beyond, while also being capable to do so in previous versions.
+This plugin enables serial communication over Bluetooth. It was written for communicating between Android or iOS and an Arduino (Raspberry Pi has been tested too).
+This version in particular allows to do so in Android 10 and beyond, while also supporting previous versions.
 
 I created this version because the original does not seem to be maintained anymore, but all credits go to the original author:
 [BluetoothSerial by don](https://github.com/don/BluetoothSerial).
