@@ -26,11 +26,9 @@ Android and Windows Phone use Classic Bluetooth.  iOS uses Bluetooth Low Energy.
 
 # Installing
 
-Install with Cordova cli
+Install with npm
 
-    $ cordova plugin add cordova-plugin-bluetooth-serial
-
-Note that this plugin's id changed from `com.megster.cordova.bluetoothserial` to `cordova-plugin-bluetooth-serial` as part of the migration from the [Cordova plugin repo](http://plugins.cordova.io/) to [npm](https://www.npmjs.com/).
+    $ npm i cordova-plugin-bluetooth-serial-a10
 
 # Examples
 
