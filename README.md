@@ -1,4 +1,4 @@
-# Bluetooth Serial Plugin for PhoneGap
+# Bluetooth Serial Plugin for Cordova (+Android 10)
 
 This plugin enables serial communication over Bluetooth. It was written for communicating between Android or iOS and an Arduino.
 This version in particular allows to do so in Android 10 and beyond, while also being capable to do so in previous versions.
@@ -674,7 +674,7 @@ Not currently implemented.
 
 ### Android
 
-Current development is done with Cordova 4.2 on Android 5. Theoretically this code runs on PhoneGap 2.9 and greater.  It should support Android-10 (2.3.2) and greater, but I only test with Android 4.x+.
+Tested in Android 11, 10, and lower.
 
 Development Devices include
  * Nexus 5 with Android 5

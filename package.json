@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-bluetooth-serial-a10",
-  "version": "0.4.10",
+  "version": "0.4.11",
   "description": "Bluetooth Serial Communication Plugin, but modified to work in Android 10 and above",
   "main": "./www/bluetoothSerial.js",
   "cordova": {
